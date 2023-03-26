@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Avoid creating -hub dir without processing images (#8334)
