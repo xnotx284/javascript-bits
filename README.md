@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add Neural Magic Docs integrations page (#7234)
