@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add C++ Classify inference example (#6868)
