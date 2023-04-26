@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add Neural Magic Docs integrations page (#7234)
