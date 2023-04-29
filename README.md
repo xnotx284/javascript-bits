@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
