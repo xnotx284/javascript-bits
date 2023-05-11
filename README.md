@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+fix for predicting with batch_size > 1 (#47)
