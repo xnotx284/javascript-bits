@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Auto-format by https://ultralytics.com/actions
