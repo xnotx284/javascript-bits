@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update Twitter icon in Docs (#7711)
