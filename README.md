@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
