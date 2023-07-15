@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Merge pull request #22 from SkalskiP/patch-1
