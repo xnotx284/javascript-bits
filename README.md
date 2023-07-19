@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix ONNX GPU inference bug (#6840)
