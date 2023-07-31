@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add docstrings to new HUB functions (#7576)
