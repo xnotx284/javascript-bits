@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update fraction arg to employ a random selection (#8234)
