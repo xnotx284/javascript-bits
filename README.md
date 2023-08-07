@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Tracker: clean up GMC (#8003)
