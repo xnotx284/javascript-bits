@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
