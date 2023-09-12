@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Elaborate Train and Predict mode docs arguments (#8137)
