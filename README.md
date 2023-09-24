@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
