@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
