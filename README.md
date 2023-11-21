@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Avoid creating -hub dir without processing images (#8334)
