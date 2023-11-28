@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+New test for labels and crops (#8861)
