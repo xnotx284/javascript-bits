@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Improve Docs Modes tables (#8266)
