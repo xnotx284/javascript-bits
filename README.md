@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add YOLOv8 LibTorch C++ inference example (#7090)
