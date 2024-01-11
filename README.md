@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add Neural Magic Docs integrations page (#7234)
