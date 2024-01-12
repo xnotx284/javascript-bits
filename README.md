@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add Weights & Biases Docs integrations page (#7199)
