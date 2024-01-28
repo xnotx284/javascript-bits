@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update Discord and Contributing Guide URLs (#9270)
