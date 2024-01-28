@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add CoreML Docs Integrations Page (#8063)
