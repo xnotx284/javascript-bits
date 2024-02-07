@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
