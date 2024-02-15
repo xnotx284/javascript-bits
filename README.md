@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
