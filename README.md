@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+OBB: Fix plot_images (#7592)
