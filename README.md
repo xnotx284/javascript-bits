@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Pass callbacks to validator (#7320)
