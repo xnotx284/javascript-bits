@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix OBB xywh-angle concatenation bug (#7404)
