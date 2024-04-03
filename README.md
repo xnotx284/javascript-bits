@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add type hinting to explorer.py (#7388)
