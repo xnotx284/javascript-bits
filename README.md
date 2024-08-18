@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fix OpenVINO links (#7930)
