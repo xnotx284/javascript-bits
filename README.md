@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Auto-format by https://ultralytics.com/actions
