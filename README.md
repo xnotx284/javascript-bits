@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Fix docker.yaml double-quote version bug (#7452)
