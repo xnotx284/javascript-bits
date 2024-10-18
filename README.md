@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
