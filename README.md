@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
