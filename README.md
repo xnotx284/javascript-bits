@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
